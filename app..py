@@ -64,8 +64,6 @@ from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table
 
-!pip install streamlit pandas numpy plotly matplotlib reportlab folium streamlit-folium openpyxl
-
 !pip install streamlit
 
 # ============================================================
