@@ -60,8 +60,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-!pip install reportlab
-
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table
